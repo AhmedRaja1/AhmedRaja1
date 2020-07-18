@@ -30,11 +30,8 @@ Outside of [GitHub](https://github.com/AhmedRaja1/), You can find me.
 Currently I'm **free to contribute**
 
 
-[![Twitter: AhmedRaja1](https://img.shields.io/twitter/follow/RAJA AHMED?style=social)](https://https://twitter.com/AhmedRajaSpeaks)
-
-[![Linkedin: AhmedRaja1](https://img.shields.io/badge/-RAJA AHMED-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/raja-ahmed-ba6732156/)
-
-[![GitHub: AhmedRaja1](https://img.shields.io/github/followers/RAJA AHMED?label=follow&style=social)](https://github.com/AhmedRaja1)
-
+[![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/MianJawadAhmad1?style=social)](https://twitter.com/MianJawadAhmad1)
+[![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mianjawadahmad/)](https://www.linkedin.com/in/mianjawadahmad/)
+[![GitHub MianJawadAhmad](https://img.shields.io/github/followers/MianJawadAhmad?label=follow&style=social)](https://github.com/MianJawadAhmad)
 
 <p><a href="https://">🌐 Check out my website</a></p>
