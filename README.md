@@ -1,11 +1,7 @@
 # Hey There! Welcome 👋
-<hr/>
-
+<hr>
 **Happy to see you here!** 😍 <br> The green dots on my [**GitHub** profile](https://github.com/AhmedRaja1) represent my journey :running_man: - This is RAJA AHMED , I am a Tech Evangelist 💻
-
-
-
-
+<hr>
 
 **Tools & Technologies:**
 
