@@ -26,7 +26,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedRaja1&show_icons=true)
 
-@AshleyAlexjacob
+
 
 ![](https://komarev.com/ghpvc/?username=AhmedRaja1&color=red&label=Profile+Views)
 
