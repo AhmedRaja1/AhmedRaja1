@@ -32,7 +32,7 @@
 
 
 
-Open Source Contributor from **Pakistan 💚*
+Open Source Contributor from **Pakistan 💚**
 
 
 
