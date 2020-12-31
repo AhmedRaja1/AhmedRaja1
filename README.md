@@ -3,11 +3,11 @@
 
 **Happy to see you here!** 😍 <br> The green dots on my [**GitHub** profile](https://github.com/AhmedRaja1) represent my journey :running_man: - This is RAJA AHMED , I am a Tech Evangelist 💻, Interested in all the cutting-edge technologies.
 
+### Image
+<img align="right" alt="GIF" src="ahmed.gif" width="500" height="320" />
+
+
 # Tools & Technologies:
-
-
-
-
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
